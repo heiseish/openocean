@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/chenjie/Desktop/MComp/IT5100a/Project/openocean/opensea/src/main/scala/app/layout/MainLayout.scala:78:12: ';' expected but ',' found.[0m
+[0m[[0m[31merror[0m] [0m[0m          ),[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

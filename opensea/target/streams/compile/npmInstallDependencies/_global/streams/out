@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0mUpdating NPM dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mUsing lockfile /Users/chenjie/Desktop/MComp/IT5100a/Project/openocean/opensea/yarn.lock[0m
+[0m[[0m[0mdebug[0m] [0m[0mCommand: yarn install --non-interactive --mutex network[0m
+[0m[[0m[0minfo[0m] [0m[0myarn install v1.22.10[0m
+[0m[[0m[0minfo[0m] [0m[0m[1/4] Resolving packages...[0m
+[0m[[0m[0minfo[0m] [0m[0m[2/4] Fetching packages...[0m
+[0m[[0m[0minfo[0m] [0m[0m[3/4] Linking dependencies...[0m
+[0m[[0m[0minfo[0m] [0m[0m[4/4] Building fresh packages...[0m
+[0m[[0m[0minfo[0m] [0m[0msuccess Saved lockfile.[0m
+[0m[[0m[0minfo[0m] [0m[0mDone in 9.71s.[0m
+[0m[[0m[0mdebug[0m] [0m[0mWrote lockfile to /Users/chenjie/Desktop/MComp/IT5100a/Project/openocean/opensea/yarn.lock[0m

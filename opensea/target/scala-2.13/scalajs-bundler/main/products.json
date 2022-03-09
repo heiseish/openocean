@@ -1,0 +1,100 @@
+{
+    "products" : [ {
+      "id" : 1,
+      "image" : "image1.jpg",
+      "author": "ElonGrimaceMuck" ,
+      "description":"A brand for the metaverse. Built by the community. View the collection at azuki.com/gallery.\nAzuki starts with a collection of 10,000 avatars that give you membership access to The Garden: a corner of the internet where artists, builders, and web3 enthusiasts meet to create a decentralized future.",
+      "favourites" : "1226",
+      "price_sol" : "10.124",
+      "price_dollar" : "5,248.04"
+
+    }, {
+        "id" : 2,
+        "image" : "image2.jpg",
+        "author": "FishyFam" ,
+        "description":"A collection of 62,500 genesis Plots of land. Get a Plot to access the Critterz metaverse in Minecraft. Each Plot of land is 64 by 64 Minecraft blocks in size. Only owners of the Plots can build or destroy any blocks on it. You will have to stake Plots before building on them. Plots can also be minted using $BLOCK tokens.",
+        "favourites" : "1131",
+        "price_sol" : "6.126",
+        "price_dollar" : "3,204.12"
+    }, {
+        "id" : 3,
+        "image" : "image3.jpg",
+        "author": "nabovisuals" ,
+        "description":"Lab notes: Unstable regulation of $RWASTE lead to all subjects of KaijuKingz Collection 001 to become dangerously unstable. As a result, a new collection has been created utilizing better calibration calculations.",
+        "favourites" : "889",
+        "price_sol" : "8.246",
+        "price_dollar" : "4120.98"
+    }, {
+        "id" : 4,
+        "image" : "image4.jpg",
+        "author": "williswaverls" ,
+        "description":"Starcatchers is a collection of 10,000 fun loving space explorers. We are a community-driven brand that aims to push the boundaries of web3.",
+        "favourites" : "678",
+        "price_sol" : "0.0287",
+        "price_dollar" : "77.24"
+    },{
+        "id" : 5,
+        "image" : "image5.jpg",
+        "author": "wterly" ,
+        "description":"Angels and Devils have agreed to put aside their differences and enter the Metaverse together, as friends! A hand-drawn collection, 5,000 Angels and 5,000 Devils to complete a full collection of 10,000 NFTs.",
+        "favourites" : "115",
+        "price_sol" : "0.0165",
+        "price_dollar" : "45.97"
+    },  {
+        "id" : 6,
+        "image" : "image6.jpg",
+        "author": "mixphix" ,
+        "description":"10KTF is a limited collection of items carefully crafted by Wagmi-san to go along with your generative art NFTs. It gives collectors the ability to curate unique digital assets by creating one-of-a-kind shoes, apparel, or other goods in the spirit of their avatar. Only the owners of certain existing NFTs can mint their corresponding 10KTF item. Visit 10ktf.com for more details.",
+        "favourites" : "333",
+        "price_sol" : "0.27",
+        "price_dollar" : "750.52"
+    },{
+        "id" : 7,
+        "image" : "image7.jpg",
+        "author": "holygrailer" ,
+        "description":"We've created unique \"Quantum AI Data Paintings\" using quantum bit strings generated from Google Quantum AI team's beyond classical experiment together with a Generative Adversarial Network machine learning algorithm that was developed during the production of Quantum Memories.",
+        "favourites" : "258",
+        "price_sol" : "2.235",
+        "price_dollar" : "6,212.61"
+    }, {
+        "id" :8,
+        "image" : "image8.jpg",
+        "author": "Arowana" ,
+        "description":"Wickens is a limited collection of 6666 unique NFTs living on the Ethereum network. They are randomly assembled from an assortment of over 160 traits, making each Wicken uniquely yours. Ownership of a Wicken grants you ongoing benefits in the form of airdrops, physical redemptions, as well as entry into various community events, games and giveaways.",
+        "favourites" : "732",
+        "price_sol" : "0.06",
+        "price_dollar" : "166.78"
+    }, {
+        "id" : 9,
+        "image" : "image9.jpg",
+        "author": "TheR0d" ,
+        "description":"Bears Deluxe is a collection of 6,900 algorithmically generated bears. All art drawn by hand in 24px format. Enjoy!",
+        "favourites" : "1678",
+        "price_sol" : "1.2",
+        "price_dollar" : "3,335.63"
+    }, {
+        "id" : 10,
+        "image" : "image10.jpg",
+        "author": "E67184" ,
+        "description":"Ultraminers are synthesized from the burning of two BMCs. They are hand drawn rare and unique artworks inspired by Bitcoin miners (AntminerS19j ASIC Pro).",
+        "favourites" : "77",
+        "price_sol" : "0.575",
+        "price_dollar" : "1,598.32"
+    }, {
+        "id" : 11,
+        "image" : "image11.jpg",
+        "author": "zyxa9527" ,
+        "description":"Phanta Bear is a collection of 10,000 algorithmically generated digital collectibles that double as memebership cards for the Ezek Club.",
+        "favourites" : "372",
+        "price_sol" : "1.05",
+        "price_dollar" : "2,918.67"
+    }, {
+        "id" : 12,
+        "image" : "image12.jpg",
+        "author": "turkeyman" ,
+        "description":"We are the ghost, your nightmare, your daydream.",
+        "favourites" : "903",
+        "price_sol" : "0.249",
+        "price_dollar" : "692.14"
+    }]
+}
